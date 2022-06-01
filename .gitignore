@@ -3,7 +3,8 @@
 # compiled output
 /dist
 /tmp
-/out-tsc
+/out-tsc\
+/.firebase
 # Only exists if Bazel was run
 /bazel-out
 
